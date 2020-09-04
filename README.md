@@ -1,1 +1,1 @@
-# git-sync-repo
+# git-sync-repository
